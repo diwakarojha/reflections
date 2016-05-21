@@ -1,0 +1,9 @@
+git diff
+git show commitcode -- to see the changes from it's parent after merging.
+git branch -d branch_name	-- to delete the branch already merged.
+git config --global credential.helper wincred --running the following in the command line will store your credentials
+git pull origin master -- to pull files fron github
+git push origin master -- to push files on github from local
+git remote add origin https://github.com/dojha00/reflections.git -- to add the repository as alias
+git remote -- to see all remote repository
+git remote -v --to see remotes in details

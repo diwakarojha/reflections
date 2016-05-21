@@ -34,3 +34,7 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
    I did not setup any workspace. 
+   
+   What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+   It may merge when we do not want to merge. and manual could be a burdon in some of the cases.

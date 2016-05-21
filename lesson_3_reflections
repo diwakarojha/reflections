@@ -1,1 +1,20 @@
 When would you want to keep a remote file rather than having files locally?
+ When it is uploaded by someone else and I donot need it.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+ Suppose on local I am working on something else and remote is updated by another user. I donot want another user commits at this moment in my code so no need to pull them on local.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks: Used for making a copy of an repository from one account to another account on gitHUb.
+clones: to make copy from github to local or from one local to another local.
+branches: to make a copy of a code in the local to make different set of changes.
+git fetch -- if both local and github have different version of commits.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+ So that we can move forward with the changes made by others.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We can keep making changes and send it over mail for comments but it would not have this much functionality.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+ Master is a production branch. If we need to make any changes then first we should create a new branch make changes check if it is working and then merge it with master. Also branches provide us facility to share it with others for review and after all reviewes getting incorporated we can merge them with master.

@@ -10,3 +10,11 @@ Staging area gives us flexibility to add one or more files to get commited.
 Working directory: is the directory where we make changes and do our works.
 Repository: is place where different versions get stored when we make commits.
 
+How can you use the staging area to make sure you have one commit per logical change?
+ We can add each logical changes to staging area and then commit using proper comment.
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branching will help us in trying different things and if things did not workout no issue we will have the previous version safe and secure.
+
+How do the diagrams help you visualize the branch structure?
+Branch makes it easy to visualise in the mind.
